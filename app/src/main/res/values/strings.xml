@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TravelApp</string>
+    <string name="placeholder">placeHolder</string>
+    <string name="explore_landmarks">explore landmarks</string>
+    <string name="choose_a_city">Choose a city</string>
+    <string name="add_new_city">Add new city</string>
+    <string name="add_a_new_city">Add a new city</string>
+    <string name="name">Name:</string>
+    <string name="description">Description:</string>
+    <string name="cancel">Cancel</string>
+    <string name="create">Create</string>
+    <string name="close_button">Close</string>
+    <string name="add_new_landmark">Add new landmark</string>
+</resources>
